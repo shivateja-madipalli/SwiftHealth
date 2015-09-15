@@ -1,0 +1,17 @@
+D:\CMPE 285\PROJECT\TestWCFAPP\TestWcf\TestWcf\bin\TestWcf.dll.config
+D:\CMPE 285\PROJECT\TestWCFAPP\TestWcf\TestWcf\bin\TestWcf.dll
+D:\CMPE 285\PROJECT\TestWCFAPP\TestWcf\TestWcf\bin\TestWcf.pdb
+D:\CMPE 285\PROJECT\TestWCFAPP\TestWcf\TestWcf\bin\Newtonsoft.Json.dll
+D:\CMPE 285\PROJECT\TestWCFAPP\TestWcf\TestWcf\obj\Debug\TestWcf.csprojResolveAssemblyReference.cache
+D:\CMPE 285\PROJECT\TestWCFAPP\TestWcf\TestWcf\obj\Debug\TestWcf.dll
+D:\CMPE 285\PROJECT\TestWCFAPP\TestWcf\TestWcf\obj\Debug\TestWcf.pdb
+D:\CMPE 285\PROJECT\TestWCFAPP\TestWcf\TestWcf\bin\EntityFramework.dll
+D:\CMPE 285\PROJECT\TestWCFAPP\TestWcf\TestWcf\bin\EntityFramework.xml
+E:\Projects\Cmpe 285 Swift Health\TestWcf\TestWcf\bin\TestWcf.dll.config
+E:\Projects\Cmpe 285 Swift Health\TestWcf\TestWcf\bin\TestWcf.dll
+E:\Projects\Cmpe 285 Swift Health\TestWcf\TestWcf\bin\TestWcf.pdb
+E:\Projects\Cmpe 285 Swift Health\TestWcf\TestWcf\bin\EntityFramework.dll
+E:\Projects\Cmpe 285 Swift Health\TestWcf\TestWcf\bin\EntityFramework.xml
+E:\Projects\Cmpe 285 Swift Health\TestWcf\TestWcf\obj\Debug\TestWcf.csprojResolveAssemblyReference.cache
+E:\Projects\Cmpe 285 Swift Health\TestWcf\TestWcf\obj\Debug\TestWcf.dll
+E:\Projects\Cmpe 285 Swift Health\TestWcf\TestWcf\obj\Debug\TestWcf.pdb
